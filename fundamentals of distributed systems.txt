@@ -1,0 +1,23 @@
+fundamentals of distributed systems
+distributed consensus
+raft
+client-leader-all its servers-to followers
+to commit entry-leder sends replicate
+leader election:
+raft-haas two timer  setting
+elction timeout randomized(150ms to 200ms)
+heartbeat timeout(acknowledgement)
+if leader margaya
+synchronization(java)
+googles big table,dynamo db,casandra
+nosal:document databsase(mongo db),keyvalue(redis),columnordtabase(Casandra),graph database
+cap theorem(consistency,avilabity,
+5 floors, each floor hs 20 parking slots,and accommodate t0 20  cars
+not stay more than 8 hrs, keep track on parked, keep track on car size,allow car to exit slot
+
+
+
+
+
+
+
